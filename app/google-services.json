@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764722627575",
+    "firebase_url": "https://edusoft-70d3a.firebaseio.com",
+    "project_id": "edusoft-70d3a",
+    "storage_bucket": "edusoft-70d3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764722627575:android:2f29184ee74575834ba4f2",
+        "android_client_info": {
+          "package_name": "com.carlosmestas.edusoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764722627575-ugdecet7jprn8flkddl1ue1jcmnoboph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.carlosmestas.edusoft",
+            "certificate_hash": "1ea0955c932e040116bda9a888ba6c3fb16431fe"
+          }
+        },
+        {
+          "client_id": "764722627575-gm8lg12f5ib0s6clcb3hou85h7p75im4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9TQDK9HYSdIbohuFvGGWjRD-d1F0vYwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764722627575-gm8lg12f5ib0s6clcb3hou85h7p75im4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
