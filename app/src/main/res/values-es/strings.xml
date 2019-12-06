@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name = "app_name"> EduSoft </string>
+        <string name = "facebook_application_id"> 2802475839771607 </string>
+        <string name = "fb_login_protocol_scheme"> fb2802475839771607 </string>
+
+        <string-array name = "Tags">
+            <item> HTML </item>
+            <item> CSS </item>
+            <item> JavaScript </item>
+            <item> Angular JS </item>
+            <item> Python </item>
+            <item> Ruby on Rails </item>
+        </string-array>
+
+        <string name = "drawer_open"> Abrir el cajón de navegación </string>
+        <string name = "drawer_close"> Cerrar el cajón de navegación </string>
+        <string name = "headlines"> Encabezados de </string>
+        <string name = "title_activity_main2"> Main2Activity </string>
+        <string name = "navigation_drawer_open"> Abrir el cajón de navegación </string>
+        <string name = "navigation_drawer_close"> Cerrar el cajón de navegación </string>
+        <string name = "nav_header_title"> Android Studio </string>
+        <string name = "nav_header_subtitle"> android.studio@android.com </string>
+        <string name = "nav_header_desc"> Encabezado de navegación </string>
+        <string name = "action_settings"> Configuración </string>
+
+        <string name = "menu_home"> Mis cursos </string>
+        <string name = "menu_gallery"> Asistencia </string>
+        <string name = "menu_slideshow"> Opciones de cursos </string>
+        <string name = "menu_tools"> Herramientas </string>
+        <string name = "menu_share"> Compartir </string>
+        <string name = "menu_send"> Perfil </string>
+        <string name = "title_activity_main_nav"> MainActivityNAV </string>
+        <string name = "myperfil"> MI PERFIL </string>
+        <string name = "name"> Nombre: </string>
+        <string name = "lastname"> Apellido: </string>
+        <string name = "email"> Correo electrónico: </string>
+        <string name = "c1"> Química </string>
+        <string name = "c2"> Matemáticas </string>
+        <string name = "c3"> Ciudadanía </string>
+        <string name = "c4"> Asistencia ingresada </string>
+        
+        <string name = "c5"> Tarea </string>
+        
+        <string name = "c6"> Grados </string>
+        
+        <string name = "c7"> Lanzamientos </string>
+
+        <string name = "c8"> Iniciar </string>
+
+    </resources>

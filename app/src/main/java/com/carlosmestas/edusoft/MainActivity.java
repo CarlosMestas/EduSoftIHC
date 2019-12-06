@@ -47,8 +47,6 @@ public class MainActivity extends AppCompatActivity {
 
     Button buttonSingOut;
 
-
-
     /*
     private static final int RC_SIGN_IN = 123;
     private FirebaseDatabase firebaseDatabase;
@@ -72,10 +70,14 @@ public class MainActivity extends AppCompatActivity {
 
         printKeyHash();
 
+
         buttonSingOut = findViewById(R.id.buttonSO);
         buttonSingOut.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                Intent i = new Intent(MainActivity.this,MainActivityNAV.class);
+                startActivity(i);
+                /*
                 AuthUI.getInstance()
                         .signOut(MainActivity.this)
                         .addOnCompleteListener(new OnCompleteListener<Void>() {
@@ -90,6 +92,7 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this,""+e.getMessage(),Toast.LENGTH_SHORT).show();
                     }
                 });
+                */
             }
         });
 
@@ -97,7 +100,8 @@ public class MainActivity extends AppCompatActivity {
 
         providers = Arrays.asList(
                 new AuthUI.IdpConfig.FacebookBuilder().build(),
-                new AuthUI.IdpConfig.GoogleBuilder().build()
+                new AuthUI.IdpConfig.GoogleBuilder().build(),
+                new AuthUI.IdpConfig.EmailBuilder().build()
 
         );
         showSignOptions();
@@ -120,14 +124,14 @@ public class MainActivity extends AppCompatActivity {
         List<AuthUI.IdpConfig> providers = Arrays.asList(
                 new AuthUI.IdpConfig.FacebookBuilder().build());
 
-// Create and launch sign-in intent
+        // Create and launch sign-in intent
         startActivityForResult(
                 AuthUI.getInstance()
                         .createSignInIntentBuilder()
                         .setAvailableProviders(providers)
                         .build(),
                 RC_SIGN_IN);*/
-/*
+        /*
         startActivityForResult(
                 AuthUI.getInstance()
                         .createSignInIntentBuilder()
@@ -160,6 +164,7 @@ public class MainActivity extends AppCompatActivity {
             }
         };
         */
+
 
     }
 /*

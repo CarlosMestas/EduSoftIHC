@@ -3,5 +3,48 @@
     <string name="facebook_application_id">2802475839771607</string>
     <string name="fb_login_protocol_scheme">fb2802475839771607</string>
 
+    <string-array name="Tags">
+        <item>HTML</item>
+        <item>CSS</item>
+        <item>JavaScript</item>
+        <item>Angular JS</item>
+        <item>Python</item>
+        <item>Ruby on Rails</item>
+    </string-array>
+
+    <string name="drawer_open">Abrir navigation drawer</string>
+    <string name="drawer_close">Cerrar navigation drawer</string>
+    <string name="headlines">Encabezados de</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">My courses</string>
+    <string name="menu_gallery">Attendance</string>
+    <string name="menu_slideshow">Courses options</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Perfil</string>
+    <string name="title_activity_main_nav">MainActivityNAV</string>
+    <string name="myperfil">MY PROFILE</string>
+    <string name="name">Name: </string>
+    <string name="lastname">Last name: </string>
+    <string name="email">Email: </string>
+    <string name="c1">Chemistry</string>
+    <string name="c2">Mathematics</string>
+    <string name="c3">Citizenship</string>
+    <string name="c4">Attendance entered</string>
+    
+    <string name="c5">Homework</string>
+    
+    <string name="c6">Grades</string>
+    
+    <string name="c7">Releases</string>
+
+    <string name="c8">Start</string>
 
 </resources>

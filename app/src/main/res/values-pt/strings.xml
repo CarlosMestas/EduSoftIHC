@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name = "app_name"> EduSoft </string>
+        <string name = "facebook_application_id"> 2802475839771607 </string>
+        <string name = "fb_login_protocol_scheme"> fb2802475839771607 </string>
+
+        <string-array name = "Tags">
+            <item> HTML </item>
+            <item> CSS </item>
+            <item> JavaScript </item>
+            <item> JS angular </item>
+            <item> Python </item>
+            <item> Ruby on Rails </item>
+        </string-array>
+
+        <string name = "drawer_open"> Abrir gaveta de navegação </string>
+        <string name = "drawer_close"> Gaveta de navegação Cerrar </string>
+        <string name = "headlines"> Encabezados de </string>
+        <string name = "title_activity_main2"> Main2Activity </string>
+        <string name = "navigation_drawer_open"> Abrir gaveta de navegação </string>
+        <string name = "navigation_drawer_close"> Feche a gaveta de navegação </string>
+        <string name = "nav_header_title"> Android Studio </string>
+        <string name = "nav_header_subtitle"> android.studio@android.com </string>
+        <string name = "nav_header_desc"> Cabeçalho de navegação </string>
+        <string name = "action_settings"> Configurações </string>
+
+        <string name = "menu_home"> Meus cursos </string>
+        <string name = "menu_gallery"> Atendimento </string>
+        <string name = "menu_slideshow"> Opções de cursos </string>
+        <string name = "menu_tools"> Ferramentas </string>
+        <string name = "menu_share"> Compartilhar </string>
+        <string name = "menu_send"> Perfil </string>
+        <string name = "title_activity_main_nav"> MainActivityNAV </string>
+        <string name = "myperfil"> MEU PERFIL </string>
+        <string name = "name"> Nome: </string>
+        <string name = "lastname"> Sobrenome: </string>
+        <string name = "email"> Email: </string>
+        <string name = "c1"> Química </string>
+        <string name = "c2"> Matemática </string>
+        <string name = "c3"> Cidadania </string>
+        <string name = "c4"> Presença inserida </string>
+        
+        <string name = "c5"> Trabalho de casa </string>
+        
+        <string name = "c6"> Notas </string>
+        
+        <string name = "c7"> Lançamentos </string>
+
+        <string name = "c8"> Iniciar </string>
+
+</resources>
