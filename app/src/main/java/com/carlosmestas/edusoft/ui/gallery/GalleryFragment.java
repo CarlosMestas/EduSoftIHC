@@ -94,6 +94,7 @@ public class GalleryFragment extends Fragment {
         dialog.setCancelable(false);
         dialog.setContentView(R.layout.popup);
         dialog.setTitle("Reporte");
+        dialog.setCanceledOnTouchOutside(true);
 
 
 
