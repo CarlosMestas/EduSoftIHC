@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">EduSoft</string>
-    <string name="facebook_app_id">2802475839771607</string> <string name="fb_login_protocol_scheme">fb2802475839771607</string>
+    <string name="facebook_application_id">2802475839771607</string>
+    <string name="fb_login_protocol_scheme">fb2802475839771607</string>
+
 
 </resources>
